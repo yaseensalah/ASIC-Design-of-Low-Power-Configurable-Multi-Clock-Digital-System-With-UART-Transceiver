@@ -1,0 +1,209 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.5/examples
+T_opt
+!s110 1665257089
+V[mPK6<bz>n?ePB];=<Gmo1
+04 10 4 work UART_Rx_tb fast 0
+=1-d8d090320cd9-6341ce81-23a-3f9c
+o-quiet -auto_acc_if_foreign -work work
+Z1 tCvgOpt 0
+n@_opt
+OL;O;10.5;63
+R0
+vUART_Rx_data_sampling
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 >;35cfTY8i2m[A_PXTMW<1
+IfJXZl7El5`X;]2e2VeoEL3
+Z3 dC:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx
+w1665163640
+8C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_data_sampling.v
+FC:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_data_sampling.v
+L0 1
+Z4 OL;L;10.5;63
+Z5 !s108 1665258502.000000
+!s107 C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_data_sampling.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_data_sampling.v|
+!i113 0
+Z6 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R1
+n@u@a@r@t_@rx_data_sampling
+vUART_Rx_deserializer
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 DzQLN?R_Jm0BV_J<YKiog2
+Ij7o`YhNG4P=2Ol7lnR?5n0
+R3
+w1665198581
+8C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_deserializer.v
+FC:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_deserializer.v
+L0 1
+R4
+R5
+!s107 C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_deserializer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_deserializer.v|
+!i113 0
+R6
+R1
+n@u@a@r@t_@rx_deserializer
+vUART_Rx_edge_bit_counter
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 NM09KFnn3UFP=4>EkHC761
+IFO1i0FDdEOVRB_:W1=ie_0
+R3
+w1665207766
+8C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_edge_bit_counter.v
+FC:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_edge_bit_counter.v
+L0 1
+R4
+R5
+!s107 C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_edge_bit_counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_edge_bit_counter.v|
+!i113 0
+R6
+R1
+n@u@a@r@t_@rx_edge_bit_counter
+vUART_Rx_FSM
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 Tn<M7EN:3j>_k[Xf1m[FV0
+I96=^d6zjfWgYnhBKSc3bP1
+R3
+w1665257049
+8C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_FSM.v
+FC:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_FSM.v
+L0 1
+R4
+R5
+!s107 C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_FSM.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_FSM.v|
+!i113 0
+R6
+R1
+n@u@a@r@t_@rx_@f@s@m
+vUART_Rx_parity_check
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 :MMUJaaM]G0mf2:]eGHRI2
+I@5f20PYdjhbX23Y[CL<a92
+R3
+w1665203250
+8C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_parity_check.v
+FC:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_parity_check.v
+L0 1
+R4
+Z7 !s108 1665258503.000000
+!s107 C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_parity_check.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_parity_check.v|
+!i113 0
+R6
+R1
+n@u@a@r@t_@rx_parity_check
+vUART_Rx_stop_check
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 :0[3NZ2?kG858F7FW^;nB2
+IQ7n6kJi3]hmWzV8j^BAOE3
+R3
+w1665195660
+8C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_stop_check.v
+FC:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_stop_check.v
+L0 1
+R4
+R7
+!s107 C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_stop_check.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_stop_check.v|
+!i113 0
+R6
+R1
+n@u@a@r@t_@rx_stop_check
+vUART_Rx_strt_check
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 BVRG6_[PD:OQga^kY;?7]2
+IGkBAk;;<6I96gP0DG7Y8B1
+R3
+w1665182015
+8C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_strt_check.v
+FC:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_strt_check.v
+L0 1
+R4
+R7
+!s107 C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_strt_check.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_strt_check.v|
+!i113 0
+R6
+R1
+n@u@a@r@t_@rx_strt_check
+vUART_Rx_tb
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 oRjnkmK>zEn0jE7alZaYL1
+IdmWhz_eb?cz4ObG4=JRaB3
+R3
+w1665258495
+8C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_tb.v
+FC:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_tb.v
+L0 2
+R4
+R7
+!s107 C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_tb.v|
+!i113 0
+R6
+R1
+n@u@a@r@t_@rx_tb
+vUART_Rx_Top
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 JAdli<2QzAB4D6Wf9`BmQ0
+Il;2le;ZR@4;cN1n3Xb[o]1
+R3
+w1665256138
+8C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_Top.v
+FC:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_Top.v
+L0 1
+R4
+R7
+!s107 C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_Top.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART_Rx/UART_Rx/UART_Rx_Top.v|
+!i113 0
+R6
+R1
+n@u@a@r@t_@rx_@top

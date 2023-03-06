@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART
+vSYS_CTRL
+!s110 1665294312
+!i10b 1
+!s100 IEe;0JiNOemio:a]98oDi2
+IMQol]JHfY[h7>ak_38Saj1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/Dell/Desktop/Digital IC Diploma/System Project/SYS_CTRL
+w1665294309
+8C:\Users\Dell\Desktop\Digital IC Diploma\System Project\SYS_CTRL\SYS_CTRL.v
+FC:\Users\Dell\Desktop\Digital IC Diploma\System Project\SYS_CTRL\SYS_CTRL.v
+L0 1
+Z2 OL;L;10.5;63
+r1
+!s85 0
+31
+!s108 1665294312.000000
+!s107 C:\Users\Dell\Desktop\Digital IC Diploma\System Project\SYS_CTRL\SYS_CTRL.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\Dell\Desktop\Digital IC Diploma\System Project\SYS_CTRL\SYS_CTRL.v|
+!i113 0
+Z3 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+n@s@y@s_@c@t@r@l
+vSYS_CTRL_Rx
+Z5 !s110 1665294313
+!i10b 1
+!s100 fKP]bc=e[[O]z0:bhC0ml1
+I`^3^i[2If08hS>KzG<3R>2
+R0
+R1
+w1665285377
+8C:\Users\Dell\Desktop\Digital IC Diploma\System Project\SYS_CTRL\SYS_CTRL_Rx.v
+FC:\Users\Dell\Desktop\Digital IC Diploma\System Project\SYS_CTRL\SYS_CTRL_Rx.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z6 !s108 1665294313.000000
+!s107 C:\Users\Dell\Desktop\Digital IC Diploma\System Project\SYS_CTRL\SYS_CTRL_Rx.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\Dell\Desktop\Digital IC Diploma\System Project\SYS_CTRL\SYS_CTRL_Rx.v|
+!i113 0
+R3
+R4
+n@s@y@s_@c@t@r@l_@rx
+vSYS_CTRL_Tx
+R5
+!i10b 1
+!s100 SD=69WSZbCj^HNE2F28Sd2
+IM<JLcQRNncTC;Kd8_YKX13
+R0
+R1
+w1665293853
+8C:\Users\Dell\Desktop\Digital IC Diploma\System Project\SYS_CTRL\SYS_CTRL_Tx.v
+FC:\Users\Dell\Desktop\Digital IC Diploma\System Project\SYS_CTRL\SYS_CTRL_Tx.v
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 C:\Users\Dell\Desktop\Digital IC Diploma\System Project\SYS_CTRL\SYS_CTRL_Tx.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:\Users\Dell\Desktop\Digital IC Diploma\System Project\SYS_CTRL\SYS_CTRL_Tx.v|
+!i113 0
+R3
+R4
+n@s@y@s_@c@t@r@l_@tx

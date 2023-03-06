@@ -1,0 +1,22 @@
+{C:/Users/Dell/Desktop/Digital IC Diploma/System Project/SYS_CTRL/SYS_CTRL_Tx.v} {1 {vlog -work work -vopt -stats=none {C:\Users\Dell\Desktop\Digital IC Diploma\System Project\SYS_CTRL\SYS_CTRL_Tx.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module SYS_CTRL_Tx
+
+Top level modules:
+	SYS_CTRL_Tx
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/SYS_CTRL/SYS_CTRL.v} {1 {vlog -work work -vopt -stats=none {C:\Users\Dell\Desktop\Digital IC Diploma\System Project\SYS_CTRL\SYS_CTRL.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module SYS_CTRL
+
+Top level modules:
+	SYS_CTRL
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/SYS_CTRL/SYS_CTRL_Rx.v} {1 {vlog -work work -vopt -stats=none {C:\Users\Dell\Desktop\Digital IC Diploma\System Project\SYS_CTRL\SYS_CTRL_Rx.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module SYS_CTRL_Rx
+
+Top level modules:
+	SYS_CTRL_Rx
+
+} {} {}}

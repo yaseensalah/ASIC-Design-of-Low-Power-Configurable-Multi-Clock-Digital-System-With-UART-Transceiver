@@ -1,0 +1,197 @@
+{C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART_Rx/UART_Rx/UART_Rx_parity_check.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART_Rx/UART_Rx/UART_Rx_parity_check.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module UART_Rx_parity_check
+
+Top level modules:
+	UART_Rx_parity_check
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART_Rx/UART_Rx/UART_Rx_FSM.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART_Rx/UART_Rx/UART_Rx_FSM.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module UART_Rx_FSM
+
+Top level modules:
+	UART_Rx_FSM
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/DATA_SYNC/Pulse_Gen.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/DATA_SYNC/Pulse_Gen.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module Pulse_Gen
+
+Top level modules:
+	Pulse_Gen
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module UART
+
+Top level modules:
+	UART
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART Tx/UART_Tx/UART_Tx_Serializer.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART Tx/UART_Tx/UART_Tx_Serializer.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module UART_Tx_Serializer
+
+Top level modules:
+	UART_Tx_Serializer
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART_Rx/UART_Rx/UART_Rx_edge_bit_counter.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART_Rx/UART_Rx/UART_Rx_edge_bit_counter.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module UART_Rx_edge_bit_counter
+
+Top level modules:
+	UART_Rx_edge_bit_counter
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART Tx/UART_Tx/UART_Tx_Top.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART Tx/UART_Tx/UART_Tx_Top.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module UART_Tx_Top
+
+Top level modules:
+	UART_Tx_Top
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/ALU/ALU.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/ALU/ALU.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART_Rx/UART_Rx/UART_Rx_data_sampling.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART_Rx/UART_Rx/UART_Rx_data_sampling.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module UART_Rx_data_sampling
+
+Top level modules:
+	UART_Rx_data_sampling
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART Tx/UART_Tx/UART_Tx_FSM.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART Tx/UART_Tx/UART_Tx_FSM.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module UART_Tx_FSM
+
+Top level modules:
+	UART_Tx_FSM
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/SYS_CTRL/SYS_CTRL.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/SYS_CTRL/SYS_CTRL.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module SYS_CTRL
+
+Top level modules:
+	SYS_CTRL
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/BIT_SYNC/BIT_SYNC.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/BIT_SYNC/BIT_SYNC.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module BIT_SYNC
+
+Top level modules:
+	BIT_SYNC
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/SYS_CTRL/SYS_CTRL_Rx.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/SYS_CTRL/SYS_CTRL_Rx.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module SYS_CTRL_Rx
+
+Top level modules:
+	SYS_CTRL_Rx
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/_TOP_/SYS_TOP_tb.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/_TOP_/SYS_TOP_tb.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module SYS_TOP_tb
+
+Top level modules:
+	SYS_TOP_tb
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/SYS_CTRL/SYS_CTRL_Tx.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/SYS_CTRL/SYS_CTRL_Tx.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module SYS_CTRL_Tx
+
+Top level modules:
+	SYS_CTRL_Tx
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART Tx/UART_Tx/UART_Tx_MUX.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART Tx/UART_Tx/UART_Tx_MUX.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module UART_Tx_MUX
+
+Top level modules:
+	UART_Tx_MUX
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/ClkDiv/ClkDiv.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/ClkDiv/ClkDiv.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module ClkDiv
+
+Top level modules:
+	ClkDiv
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/_TOP_/SYS_TOP.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/_TOP_/SYS_TOP.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module SYS_TOP
+
+Top level modules:
+	SYS_TOP
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART_Rx/UART_Rx/UART_Rx_strt_check.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART_Rx/UART_Rx/UART_Rx_strt_check.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module UART_Rx_strt_check
+
+Top level modules:
+	UART_Rx_strt_check
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/RST_SYNC/RST_SYNC.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/RST_SYNC/RST_SYNC.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module RST_SYNC
+
+Top level modules:
+	RST_SYNC
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART Tx/UART_Tx/UART_Tx_ParityCalc.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART Tx/UART_Tx/UART_Tx_ParityCalc.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module UART_Tx_ParityCalc
+
+Top level modules:
+	UART_Tx_ParityCalc
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART_Rx/UART_Rx/UART_Rx_deserializer.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART_Rx/UART_Rx/UART_Rx_deserializer.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module UART_Rx_deserializer
+
+Top level modules:
+	UART_Rx_deserializer
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART_Rx/UART_Rx/UART_Rx_stop_check.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART_Rx/UART_Rx/UART_Rx_stop_check.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module UART_Rx_stop_check
+
+Top level modules:
+	UART_Rx_stop_check
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART_Rx/UART_Rx/UART_Rx_Top.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/UART/UART_Rx/UART_Rx/UART_Rx_Top.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module UART_Rx_Top
+
+Top level modules:
+	UART_Rx_Top
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/CLK_GATE/CLK_GATE.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/CLK_GATE/CLK_GATE.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module CLK_GATE
+
+Top level modules:
+	CLK_GATE
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/RegFile/RegFile.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/RegFile/RegFile.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/RST_SYNC/D_FF.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/RST_SYNC/D_FF.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module D_FF
+
+Top level modules:
+	D_FF
+
+} {} {}} {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/DATA_SYNC/DATA_SYNC.v} {1 {vlog -work work -vopt -stats=none {C:/Users/Dell/Desktop/Digital IC Diploma/System Project/DATA_SYNC/DATA_SYNC.v}
+Model Technology ModelSim SE-64 vlog 10.5 Compiler 2016.02 Feb 13 2016
+-- Compiling module DATA_SYNC
+
+Top level modules:
+	DATA_SYNC
+
+} {} {}}
