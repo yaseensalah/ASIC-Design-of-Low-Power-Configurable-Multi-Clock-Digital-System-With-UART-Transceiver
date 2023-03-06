@@ -1,8 +1,0 @@
-vlib work
-vlog SYS_TOP.v SYS_TOP_tb.v                      +cover -covercells
-vsim -voptargs=+acc work.SYS_TOP_tb      -cover
-add wave *
-				      coverage save psr_tb.ucdb -onexit
-run -all
-
-				      vcover report psr_tb.ucdb
