@@ -1,5 +1,5 @@
 # ASIC-Design-of-Low-Power-Configurable-Multi-Clock-Digital-System-With-UART-Transceiver
-ASIC Design of a Digital System supporting Read, Write, Low-Power ALU Operation With/Without Operand Commands through core blocks operation with 50 MHz interfaced with 6.9 KHz UART peripheral.
+RTL to GDS|| Implementation of a Digital System supporting Read, Write, Low-Power ALU Operation With/Without Operand Commands through core blocks operation with 50 MHz interfaced with 6.9 KHz UART peripheral.
 
 **Design Flow:**
 - 𝙍𝙏𝙇 𝘿𝙚𝙨𝙞𝙜𝙣 𝙤𝙛 50 𝙈𝙃𝙯 𝘾𝙡𝙤𝙘𝙠 𝘿𝙤𝙢𝙖𝙞𝙣 𝘽𝙡𝙤𝙘𝙠𝙨: System Controller , ALU , 16x8 Register File , Clock Gate. 
